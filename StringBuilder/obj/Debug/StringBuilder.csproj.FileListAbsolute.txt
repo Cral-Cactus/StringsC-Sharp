@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\aaa\testt\StringsTask\StringBuilder\bin\Debug\StringBuilder.exe
+D:\aaa\testt\StringsTask\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\aaa\testt\StringsTask\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\StringBuilder\obj\Debug\StringBuilder.exe
+D:\aaa\testt\StringsTask\StringBuilder\obj\Debug\StringBuilder.pdb

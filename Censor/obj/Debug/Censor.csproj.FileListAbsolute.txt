@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\Censor\bin\Debug\Censor.exe.config
+D:\aaa\testt\StringsTask\Censor\bin\Debug\Censor.exe
+D:\aaa\testt\StringsTask\Censor\bin\Debug\Censor.pdb
+D:\aaa\testt\StringsTask\Censor\obj\Debug\Censor.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\Censor\obj\Debug\Censor.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\Censor\obj\Debug\Censor.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\Censor\obj\Debug\Censor.exe
+D:\aaa\testt\StringsTask\Censor\obj\Debug\Censor.pdb

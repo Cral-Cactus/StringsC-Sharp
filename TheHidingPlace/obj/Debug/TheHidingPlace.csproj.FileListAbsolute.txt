@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\TheHidingPlace\bin\Debug\TheHidingPlace.exe.config
+D:\aaa\testt\StringsTask\TheHidingPlace\bin\Debug\TheHidingPlace.exe
+D:\aaa\testt\StringsTask\TheHidingPlace\bin\Debug\TheHidingPlace.pdb
+D:\aaa\testt\StringsTask\TheHidingPlace\obj\Debug\TheHidingPlace.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\TheHidingPlace\obj\Debug\TheHidingPlace.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\TheHidingPlace\obj\Debug\TheHidingPlace.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\TheHidingPlace\obj\Debug\TheHidingPlace.exe
+D:\aaa\testt\StringsTask\TheHidingPlace\obj\Debug\TheHidingPlace.pdb

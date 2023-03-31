@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\KarateStrings\bin\Debug\KarateStrings.exe.config
+D:\aaa\testt\StringsTask\KarateStrings\bin\Debug\KarateStrings.exe
+D:\aaa\testt\StringsTask\KarateStrings\bin\Debug\KarateStrings.pdb
+D:\aaa\testt\StringsTask\KarateStrings\obj\Debug\KarateStrings.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\KarateStrings\obj\Debug\KarateStrings.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\KarateStrings\obj\Debug\KarateStrings.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\KarateStrings\obj\Debug\KarateStrings.exe
+D:\aaa\testt\StringsTask\KarateStrings\obj\Debug\KarateStrings.pdb

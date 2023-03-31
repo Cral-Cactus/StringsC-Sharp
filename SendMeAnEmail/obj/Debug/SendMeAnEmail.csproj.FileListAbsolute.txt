@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\SendMeAnEmail\bin\Debug\SendMeAnEmail.exe.config
+D:\aaa\testt\StringsTask\SendMeAnEmail\bin\Debug\SendMeAnEmail.exe
+D:\aaa\testt\StringsTask\SendMeAnEmail\bin\Debug\SendMeAnEmail.pdb
+D:\aaa\testt\StringsTask\SendMeAnEmail\obj\Debug\SendMeAnEmail.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\SendMeAnEmail\obj\Debug\SendMeAnEmail.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\SendMeAnEmail\obj\Debug\SendMeAnEmail.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\SendMeAnEmail\obj\Debug\SendMeAnEmail.exe
+D:\aaa\testt\StringsTask\SendMeAnEmail\obj\Debug\SendMeAnEmail.pdb

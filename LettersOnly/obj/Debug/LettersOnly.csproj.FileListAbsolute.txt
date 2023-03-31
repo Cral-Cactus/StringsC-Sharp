@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\LettersOnly\bin\Debug\LettersOnly.exe.config
+D:\aaa\testt\StringsTask\LettersOnly\bin\Debug\LettersOnly.exe
+D:\aaa\testt\StringsTask\LettersOnly\bin\Debug\LettersOnly.pdb
+D:\aaa\testt\StringsTask\LettersOnly\obj\Debug\LettersOnly.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\LettersOnly\obj\Debug\LettersOnly.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\LettersOnly\obj\Debug\LettersOnly.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\LettersOnly\obj\Debug\LettersOnly.exe
+D:\aaa\testt\StringsTask\LettersOnly\obj\Debug\LettersOnly.pdb

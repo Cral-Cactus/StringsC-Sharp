@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsTask\MerlaxShaking\bin\Debug\MerlaxShaking.exe.config
+D:\aaa\testt\StringsTask\MerlaxShaking\bin\Debug\MerlaxShaking.exe
+D:\aaa\testt\StringsTask\MerlaxShaking\bin\Debug\MerlaxShaking.pdb
+D:\aaa\testt\StringsTask\MerlaxShaking\obj\Debug\MerlaxShaking.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsTask\MerlaxShaking\obj\Debug\MerlaxShaking.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsTask\MerlaxShaking\obj\Debug\MerlaxShaking.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsTask\MerlaxShaking\obj\Debug\MerlaxShaking.exe
+D:\aaa\testt\StringsTask\MerlaxShaking\obj\Debug\MerlaxShaking.pdb
